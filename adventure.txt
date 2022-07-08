@@ -1,4 +1,4 @@
 Socrates
 Joan of Arc
 Abraham Lincoln
-This is a new change I'm going to commit
+This is a new change I'm gonna commit

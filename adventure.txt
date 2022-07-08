@@ -1,4 +1,4 @@
-Socrates changed on the same line
+Socrates changed solved
 Joan of Arc
 Abraham Lincoln
 This is a new change I'm gonna commit

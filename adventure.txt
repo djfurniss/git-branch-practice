@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Socrates change on the same line
-=======
-Socrates changed
->>>>>>> 89270496589eb9fea70ca8d664510e8029edb8f3
+Socrates change solved
 Joan of Arc
 Abraham Lincoln
 This is a new change I'm gonna commit
